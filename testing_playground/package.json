@@ -1,0 +1,12 @@
+{
+  "name": "testing_playground",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
