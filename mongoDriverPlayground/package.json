@@ -1,0 +1,11 @@
+{
+  "name": "mongoDriverPlayground",
+  "version": "1.0.0",
+  "description": "playground for mongodb",
+  "main": "app.js",
+  "author": "Wechuli",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}

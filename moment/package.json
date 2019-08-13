@@ -1,0 +1,9 @@
+{
+  "name": "moment",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

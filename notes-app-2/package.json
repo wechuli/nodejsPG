@@ -1,0 +1,12 @@
+{
+  "name": "notes-app-2",
+  "version": "1.0.0",
+  "description": "notes apps",
+  "main": "app.js",
+  "author": "Wechuli",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.0.0"
+  }
+}

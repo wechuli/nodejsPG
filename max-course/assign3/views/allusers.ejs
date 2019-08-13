@@ -1,0 +1,23 @@
+<%- include('partials/head.ejs') %>
+    <p>
+        These are all the users you
+    </p>
+
+<div class="container">
+        <% for(let data of userData){%>
+        <div class="card">            
+                
+                <p><strong>Name:</strong>  <%= data.name %></p> 
+               <p><strong>Email:</strong>  <%= data.email %></p>  
+                <p><strong>Phone:</strong>  <%= data.phone %></p> 
+               <p><strong>DOB:</strong>  <%= data.birthdate %></p>  
+                         
+               
+            </div>
+            <%}
+            %>
+</div>
+
+    
+</body>
+</html>
